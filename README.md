@@ -1,4 +1,4 @@
-# MERN E-COMMERCE TUTORIAL
+# MERN E-COMMERCE Website
 
 Hi! My name is **Samual**, I have created this website as MERN Stack Project.
 
